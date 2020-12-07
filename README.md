@@ -1,16 +1,18 @@
-# inheritance             Inheritance in Python
+# inheritance 
+               
+               Inheritance in Python
 
 
-               Inheritance is one such concept in object oriented programming. Inheritance is
-             the capability of one class to derive or inherit the properties form another class.
+Inheritance is one such concept in object oriented programming. Inheritance is
+the capability of one class to derive or inherit the properties form another class.
 
-               Adventure of Inheritance:
-               Code reusability: We do not have to write the same code again and again,
-                We can just inherit the properties we need in a child class
-               It represents a real world relationship between parent class and child class.
-               It is transitive in nature. If a child inherits properties from a parent class,
-              then all other sub- classes of the child will also inherit the properties of the
-                parent class.
+Adventure of Inheritance:
+Code reusability: We do not have to write the same code again and again,
+We can just inherit the properties we need in a child class
+It represents a real world relationship between parent class and child class.
+It is transitive in nature. If a child inherits properties from a parent class,
+then all other sub- classes of the child will also inherit the properties of the
+parent class.
 
 Example of inheritance:
 01:
