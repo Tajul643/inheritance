@@ -1,6 +1,6 @@
 # inheritance 
                
-               Inheritance in Python
+                            Inheritance in Python
 
 
 Inheritance is one such concept in object oriented programming. Inheritance is
